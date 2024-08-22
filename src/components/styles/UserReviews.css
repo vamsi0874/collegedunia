@@ -1,0 +1,42 @@
+/* UserReviews.css */
+.user-reviews-container {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 15px;
+    background-color: #f8f9fa;
+    border: 1px solid #dee2e6;
+    border-radius: 8px;
+    font-family: Arial, sans-serif;
+    color: #333;
+}
+
+.user-reviews-info {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-bottom: 15px;
+}
+
+.user-reviews-score {
+    font-size: 1.1rem;
+    font-weight: bold;
+    color: #007bff;
+    margin-right: 10px;
+}
+
+.user-reviews-text {
+    font-size: 0.9rem;
+    color: #6c757d;
+}
+
+.user-reviews-select {
+    font-size: 0.9rem;
+    color: #007bff;
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.user-reviews-select:hover {
+    color: #0056b3;
+}

@@ -1,0 +1,282 @@
+[
+    {
+        "cdRank": 1,
+        "name": "Indian Institute of Technology (IIT) Madras",
+        "fees": "₹2,09,550",
+        "placement": {
+            "avg": "₹21,48,000",
+            "highest": ""
+        },
+        "userReviews": "8.6",
+        "ranking": "#1",
+        "city": "Chennai",
+        "state": "Tamil Nadu",
+        "featured": true
+    },
+    {
+        "cdRank": 2,
+        "name": "Indian Institute of Technology (IIT) Delhi",
+        "fees": "₹2,54,650",
+        "placement": {
+            "avg": "₹25,82,000",
+            "highest": ""
+        },
+        "userReviews": "8.7",
+        "ranking": "#2",
+        "city": "Delhi",
+        "state": "Delhi",
+        "featured": true
+    },
+    {
+        "cdRank": 3,
+        "name": "Indian Institute of Technology (IIT) Bombay",
+        "fees": "₹2,29,300",
+        "placement": {
+            "avg": "₹21,82,000",
+            "highest": ""
+        },
+        "userReviews": "8.8",
+        "ranking": "#3",
+        "city": "Mumbai",
+        "state": "Maharashtra",
+        "featured": true
+    },
+    {
+        "cdRank": 4,
+        "name": "Indian Institute of Technology (IIT) Kanpur",
+        "fees": "₹2,10,650",
+        "placement": {
+            "avg": "₹20,00,000",
+            "highest": ""
+        },
+        "userReviews": "8.5",
+        "ranking": "#4",
+        "city": "Kanpur",
+        "state": "Uttar Pradesh",
+        "featured": true
+    },
+    {
+        "cdRank": 5,
+        "name": "Indian Institute of Technology (IIT) Kharagpur",
+        "fees": "₹2,21,000",
+        "placement": {
+            "avg": "₹18,50,000",
+            "highest": "₹2,60,00,000"
+        },
+        "userReviews": "8.4",
+        "ranking": "#5",
+        "city": "Kharagpur",
+        "state": "West Bengal",
+        "featured": true
+    },
+    {
+        "cdRank": 6,
+        "name": "Indian Institute of Technology (IIT) Guwahati",
+        "fees": "₹2,08,400",
+        "placement": {
+            "avg": "₹15,80,000",
+            "highest": ""
+        },
+        "userReviews": "8.3",
+        "ranking": "#6",
+        "city": "Guwahati",
+        "state": "Assam",
+        "featured": false
+    },
+    {
+        "cdRank": 7,
+        "name": "Indian Institute of Technology (IIT) Roorkee",
+        "fees": "₹2,00,000",
+        "placement": {
+            "avg": "₹17,50,000",
+            "highest": ""
+        },
+        "userReviews": "8.2",
+        "ranking": "#7",
+        "city": "Roorkee",
+        "state": "Uttarakhand",
+        "featured": false
+    },
+    {
+        "cdRank": 8,
+        "name": "National Institute of Technology (NIT) Trichy",
+        "fees": "₹1,90,000",
+        "placement": {
+            "avg": "₹14,00,000",
+            "highest": ""
+        },
+        "userReviews": "8.1",
+        "ranking": "#8",
+        "city": "Tiruchirappalli",
+        "state": "Tamil Nadu",
+        "featured": false
+    },
+    {
+        "cdRank": 9,
+        "name": "National Institute of Technology (NIT) Karnataka",
+        "fees": "₹1,85,000",
+        "placement": {
+            "avg": "₹13,50,000",
+            "highest": ""
+        },
+        "userReviews": "8.0",
+        "ranking": "#9",
+        "city": "Surathkal",
+        "state": "Karnataka",
+        "featured": false
+    },
+    {
+        "cdRank": 10,
+        "name": "Birla Institute of Technology and Science (BITS) Pilani",
+        "fees": "₹2,00,000",
+        "placement": {
+            "avg": "₹12,00,000",
+            "highest": ""
+        },
+        "userReviews": "7.9",
+        "ranking": "#10",
+        "city": "Pilani",
+        "state": "Rajasthan",
+        "featured": false
+    },
+    {
+        "cdRank": 11,
+        "name": "Indian Institute of Technology (IIT) Bhubaneswar",
+        "fees": "₹2,10,000",
+        "placement": {
+            "avg": "₹16,00,000",
+            "highest": ""
+        },
+        "userReviews": "7.8",
+        "ranking": "#11",
+        "city": "Bhubaneswar",
+        "state": "Odisha",
+        "featured": false
+    },
+    {
+        "cdRank": 12,
+        "name": "Indian Institute of Technology (IIT) Mandi",
+        "fees": "₹1,95,000",
+        "placement": {
+            "avg": "₹15,00,000",
+            "highest": ""
+        },
+        "userReviews": "7.7",
+        "ranking": "#12",
+        "city": "Mandi",
+        "state": "Himachal Pradesh",
+        "featured": false
+    },
+    {
+        "cdRank": 13,
+        "name": "National Institute of Technology (NIT) Warangal",
+        "fees": "₹1,80,000",
+        "placement": {
+            "avg": "₹14,50,000",
+            "highest": ""
+        },
+        "userReviews": "7.6",
+        "ranking": "#13",
+        "city": "Warangal",
+        "state": "Telangana",
+        "featured": false
+    },
+    {
+        "cdRank": 14,
+        "name": "National Institute of Technology (NIT) Rourkela",
+        "fees": "₹1,85,000",
+        "placement": {
+            "avg": "₹13,00,000",
+            "highest": ""
+        },
+        "userReviews": "7.5",
+        "ranking": "#14",
+        "city": "Rourkela",
+        "state": "Odisha",
+        "featured": false
+    },
+    {
+        "cdRank": 15,
+        "name": "Indian Institute of Technology (IIT) Jodhpur",
+        "fees": "₹2,05,000",
+        "placement": {
+            "avg": "₹14,00,000",
+            "highest": ""
+        },
+        "userReviews": "7.4",
+        "ranking": "#15",
+        "city": "Jodhpur",
+        "state": "Rajasthan",
+        "featured": false
+    },
+    {
+        "cdRank": 16,
+        "name": "Indian Institute of Technology (IIT) Hyderabad",
+        "fees": "₹2,10,000",
+        "placement": {
+            "avg": "₹13,50,000",
+            "highest": ""
+        },
+        "userReviews": "7.3",
+        "ranking": "#16",
+        "city": "Hyderabad",
+        "state": "Telangana",
+        "featured": false
+    },
+    {
+        "cdRank": 17,
+        "name": "Indian Institute of Technology (IIT) Indore",
+        "fees": "₹2,00,000",
+        "placement": {
+            "avg": "₹12,00,000",
+            "highest": ""
+        },
+        "userReviews": "7.2",
+        "ranking": "#17",
+        "city": "Indore",
+        "state": "Madhya Pradesh",
+        "featured": false
+    },
+    {
+        "cdRank": 18,
+        "name": "Indian Institute of Technology (IIT) Bhilai",
+        "fees": "₹1,95,000",
+        "placement": {
+            "avg": "₹13,00,000",
+            "highest": ""
+        },
+        "userReviews": "7.1",
+        "ranking": "#18",
+        "city": "Bhilai",
+        "state": "Chhattisgarh",
+        "featured": false
+    },
+    {
+        "cdRank": 19,
+        "name": "Indian Institute of Technology (IIT) Palakkad",
+        "fees": "₹2,05,000",
+        "placement": {
+            "avg": "₹12,50,000",
+            "highest": ""
+        },
+        "userReviews": "7.0",
+        "ranking": "#19",
+        "city": "Palakkad",
+        "state": "Kerala",
+        "featured": false
+    },
+    {
+        "cdRank": 20,
+        "name": "Indian Institute of Technology (IIT) Tirupati",
+        "fees": "₹2,00,000",
+        "placement": {
+            "avg": "₹11,50,000",
+            "highest": ""
+        },
+        "userReviews": "6.9",
+        "ranking": "#20",
+        "city": "Tirupati",
+        "state": "Andhra Pradesh",
+        "featured": false
+    }
+]
