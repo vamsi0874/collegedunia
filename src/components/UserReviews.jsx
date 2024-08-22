@@ -2,7 +2,7 @@ import React from 'react';
 import './styles/UserReviews.css'; 
 
 const UserReviews = ({ Review }) => {
-    console.log(Review);
+   
     return (
         <div className="user-reviews-container">
             <div className="user-reviews-info">

@@ -121,3 +121,6 @@ th, td {
 .search-input ,.sort-select{
   background-color: rgb(252, 252, 252);
 }
+.search-input{
+  color: black;
+}
