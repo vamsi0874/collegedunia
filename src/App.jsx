@@ -187,16 +187,10 @@ const CollegeTable = () => {
     };
   
 
-    // const filteredColleges = sortedColleges().filter(college =>
-    //     college.name.toLowerCase().includes(query.toLowerCase())
-    // );
-    const filteredColleges = sortedColleges().filter(college => 
-        Object.values(college).some(value => 
-            value !== null && value !== undefined && value.toString().toLowerCase().includes(query.toLowerCase())
-        )
+    const filteredColleges = sortedColleges().filter(college =>
+        college.name.toLowerCase().includes(query.toLowerCase())
     );
-    console.log('sorted',sortedColleges())
-    console.log('filtered',filteredColleges)
+   
 
     return (
         <div>
