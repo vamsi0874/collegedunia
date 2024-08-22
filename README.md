@@ -1,3 +1,5 @@
+deployed Url : https://collegedunia-mu.vercel.app/
+
 Project Overview: College Table with Infinite Scroll and Search
 Description:
 This project is a React application that displays a table of colleges with features including infinite scrolling, sorting, and searching. The data is loaded from a JSON file and rendered in a table format, with the ability to sort and filter the information based on user input.
